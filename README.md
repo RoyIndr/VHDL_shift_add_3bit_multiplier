@@ -53,6 +53,11 @@ This project is designed using structural VHDL. Each component can be independen
 
 ---
 
+## 📄 License
+
+This project is released under the **MIT License**.
+
+---
 ## 👤 Author
 
 **Roy Indra Pratama**  
